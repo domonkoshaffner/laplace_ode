@@ -1,1 +1,1 @@
-# laplace_ode
+# Laplace equation
